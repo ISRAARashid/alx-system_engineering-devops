@@ -1,2 +1,2 @@
 #!/bin/bash
-iamafile/temp -f 12-file_type/tmp/iamafile: ELF 64-bit LSB  executable, x86-64, version 1 (SYSV), dynamically linked (uses shared libs), for GNU/Lin
+/temp/iamafile -f 12-file_type
